@@ -1,0 +1,10 @@
+﻿  MainMenu.cpp
+C:\Users\denni\OneDrive\Documents\GitHub\SCHOOL\Old\CS210\week 7\Project Three CS210\Project Three CS210\Project Three CS210\MainMenu.cpp(35,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\denni\OneDrive\Documents\GitHub\SCHOOL\Old\CS210\week 7\Project Three CS210\Project Three CS210\Project Three CS210\MainMenu.cpp(41,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\denni\OneDrive\Documents\GitHub\SCHOOL\Old\CS210\week 7\Project Three CS210\Project Three CS210\Project Three CS210\MainMenu.cpp(99,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Project Three CS210.cpp
+C:\Users\denni\OneDrive\Documents\GitHub\SCHOOL\Old\CS210\week 7\Project Three CS210\Project Three CS210\Project Three CS210\Project Three CS210.cpp(30,45): warning C4101: 'e': unreferenced local variable
+C:\Users\denni\OneDrive\Documents\GitHub\SCHOOL\Old\CS210\week 7\Project Three CS210\Project Three CS210\Project Three CS210\Project Three CS210.cpp(33,41): warning C4101: 'e': unreferenced local variable
+  DataHandler.cpp
+  Generating Code...
+  Project Three CS210.vcxproj -> C:\Users\denni\OneDrive\Documents\GitHub\SCHOOL\Old\CS210\week 7\Project Three CS210\Project Three CS210\x64\Debug\Project Three CS210.exe
